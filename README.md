@@ -25,5 +25,5 @@ Este projeto foi desenvolvido como um exercício prático para aprimorar habilid
 ## 👨‍💻 Autor
 
 * **André Soares**
-* **LinkedIn:** [https://www.linkedin.com/in/andré-soares-154046384](https://www.linkedin.com/in/andré-soares-154046384)
+* **LinkedIn:** [https://www.linkedin.com/in/andré-soares-154046384](www.linkedin.com/in/andré-soares-0ba07439a)
 * **GitHub:** [https://github.com/andreandres](https://github.com/andreandres)
